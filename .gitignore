@@ -1,0 +1,17 @@
+# Source datasets and generated training artifacts stay outside Git.
+data/
+artifacts/
+outputs/
+checkpoints/
+
+# Notebook and Python caches.
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local environments and editor files.
+.venv/
+venv/
+.env
+.vscode/
+.idea/
