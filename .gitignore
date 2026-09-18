@@ -11,6 +11,7 @@ __pycache__/
 
 # Local environments and editor files.
 .venv/
+.venv312/
 venv/
 .env
 .vscode/

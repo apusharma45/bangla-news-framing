@@ -1,0 +1,10 @@
+# Use Python 3.12. The article classifier was serialized with scikit-learn 1.6.1.
+torch>=2.6,<3
+transformers>=5.0,<6
+gradio>=6,<7
+plotly>=6,<7
+pandas>=2.2,<3
+numpy>=2,<3
+scikit-learn==1.6.1
+joblib>=1.5,<2
+safetensors>=0.5,<1
